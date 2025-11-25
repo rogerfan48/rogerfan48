@@ -40,7 +40,7 @@ Cross-platform mobile app with **AI conversational recommendations** and **OCR r
 ---
 
 ### 🎮 [FPCAT](https://github.com/rogerfan48/HDL-FPCAT) - FPGA Battle Cats Game
-Tower defense game **fully synthesized on FPGA** with custom VGA controller, PS/2 mouse interface, and complete hardware game state machine.
+Tower defense game **fully synthesized on FPGA** with modular FSM-based game engine. Features parallel rendering pipelines, custom sprite compression, and progressive difficulty stages.
 
 **Tech:** Verilog, SystemVerilog, Vivado, FPGA, VGA
 
