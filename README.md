@@ -5,7 +5,7 @@
 **Computer Science Student @ NTHU**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-roger.tw-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roger.tw)
-[![Email](https://img.shields.io/badge/Email-roger@roger.tw-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweric2u@gmail.com)
+[![Email](https://img.shields.io/badge/Email-roger@roger.tw-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roger@roger.tw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rogerfan48-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogerfan48)
 
 </div>
@@ -111,6 +111,6 @@ Real-time crowd conflict detection with **edge-to-cloud pipeline** and fully ser
 
 *"Building practical solutions through code, from edge computing to web platforms"*
 
-📫 Reach me: sweric2u@gmail.com | 🌐 Portfolio: [roger.tw](https://roger.tw)
+📫 Reach me: roger@roger.tw | 🌐 Portfolio: [roger.tw](https://roger.tw)
 
 </div>
