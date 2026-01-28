@@ -7,65 +7,65 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-roger.tw-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roger.tw)
 [![Email](https://img.shields.io/badge/Email-roger@roger.tw-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roger@roger.tw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rogerfan48-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogerfan48)
+[![Status](https://img.shields.io/badge/System_Status-Operational-2ea44f?style=for-the-badge&logo=mediafire&logoColor=white)](https://status.roger.tw)
 
 </div>
-
----
 
 ## 🎓 About Me
 
 I'm an undergraduate student at **National Tsing Hua University** (GPA: **4.21/4.3**, **Top 3%**) with strong interests in **computer vision**, **AI/ML**, and **full-stack development**. I enjoy building practical applications and solving real-world challenges through code.
 
-- 🔬 Research Intern @ **Academia Sinica** (Jul-Aug 2025) - Computer Vision & Model Interpretability
+- 🔬 ex-Research Intern @ **Academia Sinica** (Jul-Aug 2025) - Computer Vision & Model Interpretability
 - 👨‍🏫 Teaching Assistant @ **NTHU** - Linear Algebra & Programming (C++)
 - 📝 Submitted to **CVPR 2026** - Co-author on video editing research
 - 🌐 Check out my full portfolio: **[roger.tw](https://roger.tw)**
-
----
 
 ## 🚀 Featured Projects
 
 ### 🏠 [Personal Portfolio](https://roger.tw) - Self-Hosted Full-Stack Platform
 A modern portfolio website demonstrating **end-to-end infrastructure engineering**. Self-hosted with Docker multi-environment deployment, custom DNS (Bind9), Nginx reverse proxy, and enterprise-grade email system (Mail-Tester 10/10).
 
+> - **My Web:** [roger.tw](https://roger.tw)
+> - **Live System Status:** [status.roger.tw](https://status.roger.tw)
+
 **Tech:** Next.js, TypeScript, Docker, Nginx, Postfix, WireGuard, PostgreSQL, Auth.js
 
----
-
-### 🍽️ [Foodie](https://github.com/rogerfan48/foodie) - AI-Powered Restaurant Finder
+### [Foodie](https://github.com/rogerfan48/foodie) - AI-Powered Restaurant Finder
 Cross-platform mobile app with **AI conversational recommendations** and **OCR receipt scanning**. Features custom Google Maps themes and multi-tier AI architecture for context-aware suggestions.
 
 **Tech:** Flutter, Firebase, Gemini API, Google Maps API, Cloud Functions
 
----
-
-### 🎮 [FPCAT](https://github.com/rogerfan48/HDL-FPCAT) - FPGA Battle Cats Game
+### [FPCAT](https://github.com/rogerfan48/HDL-FPCAT) - FPGA Battle Cats Game
 Tower defense game **fully synthesized on FPGA** with modular FSM-based game engine. Features parallel rendering pipelines, custom sprite compression, and progressive difficulty stages.
 
 **Tech:** Verilog, SystemVerilog, Vivado, FPGA, VGA
 
----
-
-### 🎯 [Arena Legends](https://github.com/rogerfan48/I2P2-ArenaLegends) - Multiplayer Battle Game
+### [Arena Legends](https://github.com/rogerfan48/I2P2-ArenaLegends) - Multiplayer Battle Game
 Real-time strategy game with **TCP/IP-based online multiplayer**, physics engine, and object-oriented character system.
 
 **Tech:** C++, Allegro, Boost.ASIO, Networking
 
----
-
-### 🔌 [Better Heading Hierarchy](https://github.com/rogerfan48/better-heading-hierarchy) - Obsidian Plugin
+### [Better Heading Hierarchy](https://github.com/rogerfan48/better-heading-hierarchy) - Obsidian Plugin
 Open-source productivity plugin with **800+ downloads** on Obsidian Community Plugins marketplace. Custom CSS injection system for markdown readability.
 
 **Tech:** TypeScript, CSS, Obsidian Plugin API
 
----
-
-### 🏆 [Snappport](https://github.com/rogerfan48/2025-GenAI-Hackathon-Snapport) - Edge-AI Safety Platform (Hackathon)
+### [Snappport](https://github.com/rogerfan48/2025-GenAI-Hackathon-Snapport) - Edge-AI Safety Platform (Hackathon)
 Real-time crowd conflict detection with **edge-to-cloud pipeline** and fully serverless AWS infrastructure. AI-generated incident reports via Bedrock.
 
 **Tech:** Flutter, AWS IoT, AWS Lambda, AWS Bedrock, GraphQL, Edge AI
 
----
+## 🏆 Achievements
+
+- 🥇 **1st Place, NSF HDR Scientific-MOOD Hackathon (2026)**
+  - Taiwan Local Competition for the U.S. National Science Foundation (NSF) Imageomics Challenge.
+  - Developed ML models to predict drought severity (SPEI) from NEON beetle imagery, focusing on **out-of-distribution generalization** across unseen ecological sites.
+
+- 🎓 **Academic Achievements Award** (NTHU)
+
+- 💯 **GPA 4.21/4.3** - Top 3% in Computer Science Department
+
+- 📦 **1000+ Downloads** - Published Obsidian plugin on official marketplace
 
 ## 💻 Tech Stack
 
@@ -87,29 +87,12 @@ Real-time crowd conflict detection with **edge-to-cloud pipeline** and fully ser
 
 ---
 
-## 🏆 Achievements
-
-- 🎓 **Academic Achievements Award** - National Tsing Hua University (Spring 2024)
-- 📝 **CVPR 2026 Submission** - Co-author on "TRACE: Temporal Rectification of Attention for Cross-object Editing"
-- 💯 **GPA 4.21/4.3** - Top 3% in Computer Science Department
-- 📦 **800+ Downloads** - Published Obsidian plugin on official marketplace
-
----
-
 <div align="center">
 
-### 💼 For detailed project descriptions, experience, and publications:
-## 👉 [Visit my portfolio at roger.tw](https://roger.tw) 👈
+For detailed project descriptions, experience, and publications:
+### 👉 [Visit my portfolio at roger.tw](https://roger.tw) 👈
 
 *Built with Next.js, self-hosted with Docker, and deployed on custom infrastructure*
-
-</div>
-
----
-
-<div align="center">
-
-*"Building practical solutions through code, from edge computing to web platforms"*
 
 📫 Reach me: roger@roger.tw | 🌐 Portfolio: [roger.tw](https://roger.tw)
 
