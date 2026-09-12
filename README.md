@@ -9,10 +9,11 @@ CS student at NTHU. Full-stack, infrastructure & ML — I run my own server, DNS
 
 ## 🚀 Projects
 
-- **[Personal Portfolio](https://roger.tw)** — self-hosted full-stack site; own Docker/Nginx/Bind9/Postfix stack, per-user PDF watermarking · `Next.js` `TypeScript` `Docker` `PostgreSQL`
+- **[Code Tracker](https://github.com/rogerfan48/code-tracker)** ([code.roger.tw](https://code.roger.tw)) — spaced re-practice tracker for LeetCode; rate each attempt by familiarity and get a prioritized due list · `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Auth.js`
+- **Personal Portfolio** ([roger.tw](https://roger.tw)) — self-hosted full-stack site; own Docker/Nginx/Bind9/Postfix stack, mail relayed over WireGuard (Mail-Tester 10/10), per-user PDF watermarking · `Next.js` `TypeScript` `Docker` `PostgreSQL` `Auth.js`
 - **[Foodie](https://github.com/rogerfan48/foodie)** — restaurant finder with AI recommendations and receipt OCR · `Flutter` `Firebase` `Gemini API`
 - **[Snappport](https://github.com/rogerfan48/2025-GenAI-Hackathon-Snapport)** — edge-AI crowd conflict detection, serverless on AWS; built in 30h · `Flutter` `AWS IoT` `Lambda` `Bedrock`
-- **[Better Heading Hierarchy](https://github.com/rogerfan48/better-heading-hierarchy)** — Obsidian plugin, 2000+ downloads on the official marketplace · `TypeScript` `CSS`
+- **[Better Heading Hierarchy](https://github.com/rogerfan48/better-heading-hierarchy)** — Obsidian plugin, 2000+ downloads on the official marketplace · `TypeScript` `CSS` `GitHub Actions`
 - **[FPCAT](https://github.com/rogerfan48/HDL-FPCAT)** — tower defense game fully synthesized on FPGA, VGA out · `Verilog` `SystemVerilog` `Vivado`
 - **[Arena Legends](https://github.com/rogerfan48/I2P2-ArenaLegends)** — real-time battle game with TCP/IP online PvP · `C++` `Allegro` `Boost.ASIO`
 - **[dotfiles](https://github.com/rogerfan48/dotfiles)** — Neovim + Tmux + Zsh, one script to set up a fresh machine · `Lua` `Bash`
